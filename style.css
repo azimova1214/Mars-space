@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+.section{
+    max-width: 1600px;
+}
+.box{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    background-color: white;
+    width: 1600px;
+    height: 150px;
+    border-bottom: 3px solid #BCAAAA;
+}
+.p{
+    color: #BCAAAA;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+.p:hover{
+    color: #EF400F;
+}
+.button{
+    padding: 13px 35px;
+    border-radius: 15px;
+    border: 3px solid #EF400F;
+    background-color: white;
+    color: #EF400F;
+    font-size: 20px;
+    font-weight: 600;
+}
+.button:hover{
+    color: white;
+    background-color: #EF400F;
+}
+.box1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.box2{
+    display: flex;
+    gap: 15px;
+}
+.box3{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 180px;
+}
+.p1{
+    font-weight: 600;
+    font-family: Roboto;
+    font-size: 40px;
+    color: #0D0C5C;
+}
+.input{
+    padding: 15px 50px;
+    border-radius: 14px;
+    border: none;
+    background-color: #000000;
+    color: white;
+}
+.p2{
+    padding: 14px 40px;
+    border-radius: 14px;
+    font-weight: 400;
+    font-size: 16px;
+    border: none;
+    background-color: #0D0D5B;
+    color: white;
+}
+.p3{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 32px;
+    color: #EF400F;
+}
+.box4{
+    width: 280px;
+    height: 280px;
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+}
+.aa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+    margin-top: -15px;
+    font-family: Roboto;
+    color: #000000AB;
+    font-weight: 500;
+}
+.h3{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+}
+.p4{
+    color: #000000BF;
+    font-family: Roboto;
+    font-size: 14px;
+}
+.container3{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 1200px;
+    margin: 80px auto;
+    gap: 25px;
+}
+.cc{
+    margin-top: -10px;
+}
+.container4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1600px;
+    height: 100px;
+    background-color: white;
+}
+.ppp{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+}
+a{
+    color: black;
+    font-size: 18px;
+    font-family: Roboto;
+}
